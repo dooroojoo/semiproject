@@ -48,7 +48,7 @@ Open API : Kakao API, Google SMTP, Postcodify, iamport API<br>
 <p>
 
 ## 맡은 기능
-  <b>기능 클릭 시 상세 페이지로 이동됩니다.</b><br>
+  <b>기능 클릭 시 상세 페이지로 이동됩니다.</b>(수정중)<br>
   
 ### 1. 로그인<br>
   - 이메일 로그인<br>
