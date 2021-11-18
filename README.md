@@ -23,7 +23,7 @@ KH교육원 세미프로젝트
 
 ## 팀원
   👉 <a href="https://github.com/umyewon/semiproject">팀 깃허브</a><br>
-3조 김민주, 엄예원, 우연주, 원은정, 이창섭
+  3조 <a href="https://github.com/dooroojoo"><b>김민주</a></b>, 엄예원, 우연주, 원은정, 이창섭
 <p>
 <p>
 
@@ -38,7 +38,7 @@ KH교육원 세미프로젝트
 
 ## 개발환경
 운영체제 : Window OS<br>
-개발 툴 : Eclipse / Apache Tomcat 8.5 / Oracle SQL Developer / Visual Studio code<br>
+개발 툴 : Eclipse, Apache Tomcat 8.5, Oracle SQL Developer, Visual Studio code<br>
 개발 언어 : Java , HTML5, CSS3, JavaScript, jQuery, SQL, JSP, Servlet, Ajax, Json, Gson<br>
 소스 제어 관리 : GitHub<br>
 협업 툴 : Slack<br>
@@ -48,13 +48,14 @@ Open API : Kakao API, Google SMTP, Postcodify, iamport API<br>
 <p>
 
 ## 맡은 기능
-  <b>기능 클릭 시 상세 페이지로 이동됩니다.</b>(수정중)<br>
+  <b>기능 클릭 시 상세 페이지로 이동됩니다.</b><br>
   
 ### <a href="https://github.com/dooroojoo/semiproject_fork/tree/master/Semi_Project/webapp/WEB-INF/views/member#%EB%A1%9C%EA%B7%B8%EC%9D%B8">1. 로그인</a><br>
   - 이메일 로그인<br>
   - 카카오 로그인<br>
 ### <a href="https://github.com/dooroojoo/semiproject_fork/tree/master/Semi_Project/webapp/WEB-INF/views/member#%EC%9D%B4%EB%A9%94%EC%9D%BC--%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%B0%BE%EA%B8%B0"> 2. 이메일 찾기 / 비밀번호 찾기</a><br>
   - 구글 SMTP 이용하여 인증번호 전송<br>
-### 3. 장바구니 / 결제<br>
+### <a href="https://github.com/dooroojoo/semiproject_fork/blob/master/Semi_Project/webapp/WEB-INF/views/order/README.md#%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88--%EA%B2%B0%EC%A0%9C">3. 장바구니 / 결제</a><br>
   - IAMPORT API 이용한 결제<br>
-
+### <a href="https://github.com/dooroojoo/semiproject_fork/blob/master/Semi_Project/webapp/WEB-INF/views/admin/README.md#%EA%B4%80%EB%A6%AC%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80---%EC%A0%95%EC%82%B0%EB%82%B4%EC%97%AD">4. 관리자 - 정산내역</a> <br>
+  - AJAX 이용하여 테이블 형식 조회<br>
