@@ -48,7 +48,7 @@ Open API : Kakao API, Google SMTP, Postcodify, iamport API<br>
 <p>
 
 ## 맡은 기능
-  <b>기능 클릭 시 상세 페이지로 이동됩니다.</b>(수정중)<br>
+  <b>기능 클릭 시 상세 페이지로 이동됩니다.</b><br>
   
 ### <a href="https://github.com/dooroojoo/semiproject_fork/tree/master/Semi_Project/webapp/WEB-INF/views/member#%EB%A1%9C%EA%B7%B8%EC%9D%B8">1. 로그인</a><br>
   - 이메일 로그인<br>
