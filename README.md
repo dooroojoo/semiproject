@@ -53,7 +53,7 @@ Open API : Kakao API, Google SMTP, Postcodify, iamport API<br>
 ### <a href="https://github.com/dooroojoo/semiproject_fork/tree/master/Semi_Project/webapp/WEB-INF/views/member#%EB%A1%9C%EA%B7%B8%EC%9D%B8">1. 로그인</a><br>
   - 이메일 로그인<br>
   - 카카오 로그인<br>
-### 2. 이메일 찾기 / 비밀번호 찾기<br>
+### <a href="https://github.com/dooroojoo/semiproject_fork/tree/master/Semi_Project/webapp/WEB-INF/views/member#%EC%9D%B4%EB%A9%94%EC%9D%BC--%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%B0%BE%EA%B8%B0"> 2. 이메일 찾기 / 비밀번호 찾기</a><br>
   - 구글 SMTP 이용하여 인증번호 전송<br>
 ### 3. 장바구니 / 결제<br>
   - IAMPORT API 이용한 결제<br>
