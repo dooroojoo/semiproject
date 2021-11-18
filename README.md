@@ -48,5 +48,13 @@ Open API : Kakao API, Google SMTP, Postcodify, iamport API<br>
 <p>
 
 ## 맡은 기능
-
+  <b>기능 클릭 시 상세 페이지로 이동됩니다.</b><br>
+  
+### 1. 로그인<br>
+  - 이메일 로그인<br>
+  - 카카오 로그인<br>
+### 2. 이메일 찾기 / 비밀번호 찾기<br>
+  - 구글 SMTP 이용하여 인증번호 전송<br>
+### 3. 장바구니 / 결제<br>
+  - IAMPORT API 이용한 결제<br>
 
