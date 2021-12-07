@@ -2,12 +2,8 @@
 KH교육원 세미프로젝트
 
 ## 기획의도 
-주 52시간제가 도입되고, 많은 직장인들이 퇴근 후 취미생활을 할 수 있게 되었다. <br>
-그로 인해, 오프라인 소모임과 자기계발 컨텐츠를 제공하는 웹사이트가 늘어나고 있다.<br><p>
-
 온라인으로 수많은 인맥을 형성할 수 있지만, 실제로 만날 친구는 드문 시대!<br>
-비대면 일상에 지친 사람들을 위해 <b>오프라인 소모임</b>과<br>
-<b>VOD / 원데이 클래스</b>를 통하여 취향이 맞는 사람들과 소통하고, <br>
+비대면 일상에 지친 사람들을 위해 <b>오프라인 소모임</b>과 <b>VOD / 원데이 클래스</b>를 통하여 취향이 맞는 사람들과 소통하고,<br>
 반복되는 일상을 새로운 경험들로 채워가는 즐거움을 함께 공유하고자 기획하게 되었습니다.<br>
 <p>
 <p>
@@ -47,7 +43,7 @@ Open API : Kakao API, Google SMTP, Postcodify, iamport API<br>
 <p>
 <p>
 
-## 맡은 기능
+## 김민주 - 맡은 기능
   <b>기능 클릭 시 상세 페이지로 이동됩니다.</b><br>
   
 ### <a href="https://github.com/dooroojoo/semiproject_fork/tree/master/Semi_Project/webapp/WEB-INF/views/member#%EB%A1%9C%EA%B7%B8%EC%9D%B8">1. 로그인</a><br>
